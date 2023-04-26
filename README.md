@@ -1,2 +1,2 @@
 # AutoBuildImage-ExtractingEmailsOnK8s
-Builds the image automatically and pushes to docker repository once new changes made on ExtractingEmailsOnK8s
+Builds the docker image automatically once any push event occurs on ExtractingEmailsOnK8s
